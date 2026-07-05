@@ -50,13 +50,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byteyash&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteyash&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=byteyash&theme=default&hide_border=true" height="160" alt="GitHub streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteyash&theme=minimal&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -64,6 +58,6 @@
 ### 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/yash-palsingh](https://linkedin.com/in/yash-palsingh)
-- Email: `yash@example.com`
+- Email: [yashpal22.work@gmail.com](mailto:yashpal22.work@gmail.com)
 
 > Open to interesting backend / distributed systems conversations. Always happy to connect.
