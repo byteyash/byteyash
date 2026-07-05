@@ -45,6 +45,7 @@
 - Deepening knowledge in **distributed systems** – currently reading *Designing Data-Intensive Applications*
 - Building backend systems at **Zeta** in the fintech domain (transaction management, card delivery, credit platforms)
 - Working toward a transition into **AI Engineering**
+- Built a [rate limiter service](https://github.com/byteyash/rate-limiter-service) implementing all 5 core algorithms in Java + Spring Boot
 
 ---
 
