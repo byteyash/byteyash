@@ -41,7 +41,7 @@
 
 ### 🔭 What I'm working on
 
-- Deepening knowledge in **distributed systems** — currently reading *Designing Data-Intensive Applications*
+- Deepening knowledge in **distributed systems** – currently reading *Designing Data-Intensive Applications*
 - Building backend systems at **Zeta** in the fintech domain (transaction management, card delivery, credit platforms)
 - Working toward a transition into **AI Engineering**
 
